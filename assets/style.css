@@ -92,6 +92,7 @@ header {
     text-align: center;
     background-image: url(https://human-errorr.github.io/website/gambar/hand.jpg);
     background-size: 700%;
+    background-repeat: no-repeat;
 }
 
 header .user img {
